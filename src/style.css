@@ -192,6 +192,11 @@ a {
   color: white;
 }
 
+.cooking-container {
+  display: flex;
+  /*justify-content: space-around;*/
+}
+
 .hamburger {
   display: none;
 }
