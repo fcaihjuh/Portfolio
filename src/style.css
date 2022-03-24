@@ -29,7 +29,7 @@ nav {
 ul {
   display: flex; /* met le menu en ligne */
   list-style-type: none; /* Enlève les bullets*/
-  width: 500px;
+  width: 600px;
   justify-content: space-around;
   font-size: 30px;
   
